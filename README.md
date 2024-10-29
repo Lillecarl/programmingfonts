@@ -5,7 +5,7 @@ Test drive programming fonts [online in your browser](https://www.programmingfon
 
 ProgrammingFonts.org makes it easier to find monospaced fonts. All fonts in one place, with proper credits towards the creators. It's not a download portal, we don't track anything, it's strictly by nerds and designers for nerds and designers.
 
-## Buy me a coffee 
+## Buy me a coffee
 
 ☕️👌🏻
 
@@ -21,7 +21,7 @@ Please feel free to make a little [donation via PayPal](https://paypal.me/koenla
 - All font files (and directories) are normalized to lowercase, without `-mono` unless it's really part of the name.
 - The [fonts.less](https://github.com/braver/programmingfonts/blob/gh-pages/fonts/stylesheets/fonts.less) registers the variants for each font "alias" and is used to generate the stylesheets.
 - The license needs to allow serving in a website, or an agreement with the font creators needs to be made. If available we add a license file along with the font files.
-- Running `make` checks the json and builds the stylesheet. 
+- Running `make` checks the json and builds the stylesheet.
 - Run `python3 listing.py` to print an updated list of all the fonts, be sure to update this README with your addition.
 
 ## Notable omissions
@@ -31,7 +31,7 @@ A complete list of fonts in this project is all the way at the bottom of this RE
 ### Commercially licensed fonts
 
 We've been able to license some commercial fonts for programmingfonts.org, but there are simply too many out there... including:
- 
+
 - Andale: https://learn.microsoft.com/en-us/typography/font-list/andale-mono
 - Aperçu: https://www.colophon-foundry.org/typefaces/apercu
 - Berkeley Mono: https://berkeleygraphics.com/typefaces/berkeley-mono/
@@ -72,7 +72,7 @@ Some bitmap fonts are only available in (Windows) FON files. Sometimes conversio
 
 ### Mixed fonts
 
-These fonts combine different fonts, that are mostly already featured on this website, to create a complete set of characters for both lating script, and CJK: 
+These fonts combine different fonts, that are mostly already featured on this website, to create a complete set of characters for both lating script, and CJK:
 - Ricty Diminished: https://github.com/edihbrandon/RictyDiminished (combines Inconsolata for Latin script with M+ for others)
 - Sarasa-Gothic: https://github.com/be5invis/Sarasa-Gothic A CJK programming font based on Iosevka and Source Han Sans.
 
@@ -84,11 +84,10 @@ There are sometimes near infinite variations of certain fonts. Take for instance
 
 Therefore:
 
-- We only include the basic 4 styles of any font to ensure correct rendering in the preview, but don't let you explore all the weights and variations. 
+- We only include the basic 4 styles of any font to ensure correct rendering in the preview, but don't let you explore all the weights and variations.
 - Open type alternatives for zero style, and others (for instance all the different variations possible with [Input Mono](https://input.djr.com)) are not exposed.
 - Programming ligatures (e.g. `=>`) are switched on, but if you don't like them most editors will allow you to switch them off.
 - Character set coverage and other valuable information, e.g. if a font has true italics, is not exposed. If you have specific use cases, known candidates for wide character set coverage include Noto, DejaVu and GNU Unifont, whereas M+ covers most CJK sets.
-
 
 ## All the fonts
 
