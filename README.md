@@ -32,17 +32,23 @@ A complete list of fonts in this project is all the way at the bottom of this RE
 
 We've been able to license some commercial fonts for programmingfonts.org, but there are simply too many out there... including:
 
+- Aeonik Mono: https://cotypefoundry.com/our-fonts/aeonik-mono/
+- Akkurat Mono: https://lineto.com/typefaces/akkurat-mono
 - Andale: https://learn.microsoft.com/en-us/typography/font-list/andale-mono
 - Aperçu: https://www.colophon-foundry.org/typefaces/apercu
 - Berkeley Mono: https://berkeleygraphics.com/typefaces/berkeley-mono/
 - Consolas: https://learn.microsoft.com/en-us/typography/font-list/consolas
 - Courier (New): https://learn.microsoft.com/en-us/typography/font-list/courier-new
 - Dank Mono: https://philpl.gumroad.com/l/dank-mono
+- GT America Mono: http://www.gt-america.com
+- GT Pressura Mono: https://gt-pressura.com
 - Lucida Console: https://learn.microsoft.com/en-us/typography/font-list/lucida-console
+- Maison Mono: https://www.myfonts.com/products/maison-mono-pack-package-944927
 - Menlo: https://en.wikipedia.org/wiki/Menlo_(typeface)
 - Monaco: https://en.wikipedia.org/wiki/Monaco_(typeface)
 - Native: https://fortfoundry.com/fonts/native
 - Operator: https://www.typography.com/fonts/operator/overview
+- Pitch: https://klim.co.nz/retail-fonts/pitch/
 - PragmataPro: https://fsd.it/shop/fonts/pragmatapro/
 - San Francisco Mono: https://developer.apple.com/fonts/
 
