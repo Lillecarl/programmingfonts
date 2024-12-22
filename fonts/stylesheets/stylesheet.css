@@ -2126,7 +2126,7 @@
   font-family: 'unifontex';
   font-weight: normal;
   font-style: normal;
-  src: url('../resources/unifontex/unifontex.ttf');
+  src: url('../resources/unifontex/unifontex.woff');
 }
 @font-face {
   font-family: 'verily';
